@@ -1,0 +1,1 @@
+import{n as e}from"./rolldown-runtime-C60lm6uB.js";import{r as t}from"./framework-D_rUT4EX.js";import{o as n}from"./privacy-state-CLdjOenO.js";var r=e({default:()=>a}),i=t();function a(){return(0,i.jsx)(`button`,{type:`button`,onClick:n,className:`hover:text-[#F4A425] transition-colors`,children:`Preferências de cookies`})}export{r as n,a as t};
